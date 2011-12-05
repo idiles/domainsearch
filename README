@@ -1,0 +1,4 @@
+On Linux/MAC do:
+
+$ chmod +x domainsearch.py
+$ ./domainsearch.py
